@@ -2,6 +2,7 @@
 using namespace std
 int main()
 {
-cout<<"Hello Worls"<<endl;
+cout<<"Hello World"<<endl;
+cout<<"satvik"<<endl;
 return 0;
-
+}
